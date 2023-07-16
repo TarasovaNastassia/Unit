@@ -1,6 +1,6 @@
 # Шаблон для сайта Unit
 
-Верстка по макету PSD (HTML, CSS LESS, JS, JQuery). Сделан по курсу обучения верстки сайтов WebCademy.ru
+Верстка по макету Figma (HTML, CSS LESS, JS, JQuery). Сделан по курсу обучения верстки сайтов WebCademy.ru
 
 Что внутри:
 
